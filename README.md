@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mayborg121
+- 👋 Hi, I’m @Mayborg (MAYUR BORGUDE)
 - 👀 I’m interested in Computer Technology
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Software and Design projects.
