@@ -1,5 +1,4 @@
 
-![Mayur Borgude](./Mayur Borgude.svg)
 <img src="./Mayur Borgude.svg">
 
 - 👋 Hi, I’m @Mayborg (MAYUR BORGUDE)
