@@ -1,4 +1,6 @@
-https://github.com/Mayborg121/Mayborg121/blob/main/Mayur%20Borgude.svg
+
+![Mayur Borgude](./Mayur Borgude.svg)
+<img src="./Mayur Borgude.svg">
 
 - 👋 Hi, I’m @Mayborg (MAYUR BORGUDE)
 - 👀 I’m interested in Computer Technology
