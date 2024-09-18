@@ -1,3 +1,5 @@
+https://github.com/Mayborg121/Mayborg121/blob/main/Mayur%20Borgude.svg
+
 - 👋 Hi, I’m @Mayborg (MAYUR BORGUDE)
 - 👀 I’m interested in Computer Technology
 - 🌱 I’m currently learning Computer Science
