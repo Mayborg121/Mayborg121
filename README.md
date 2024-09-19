@@ -12,7 +12,7 @@ Hi there! I'm Mayur Borgude (MayBorg) 👋, a passionate developer who loves tur
 - 📊 **Data Analyst**: Transforms Data into Information, Helps businesses to Excel By giving helpful insights.
 - 🌐 **Web Developer**: Working on personal HTML,CSS and Javascript tutorials and projects like [Synthwave](https://mayborg121.github.io/Synthwave/), [HTML Tutorial](https://mayborg121.github.io/xs/).
 - 🔧 **IoT Innovator**: Currently developing smart home solutions with ESP32.
-- 💻 **Creator**: I create coding-themed wallpapers and design minimalistic graphics using Photoshop. [Pinterest](https://in.pinterest.com/Mayb0rg/).
+- 🖼️ **Creator**: I create coding-themed wallpapers and design minimalistic graphics using Photoshop. [Pinterest](https://in.pinterest.com/Mayb0rg/).
 
 ## 📈 Projects
 
