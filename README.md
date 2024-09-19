@@ -21,6 +21,10 @@ An IoT project focused on creating a smart home control system using ESP32.
 ### 🎨 [Synthwave](https://mayborg121.github.io/Synthwave/)
 A vibrant entertainment website exploring synthwave culture and music. Check it out!
 
+### 🎨 [Square Tales!](https://github.com/Mayborg121/Square-Tales-Godot-Game-)
+Square Tales is a 2D platformer game developed using Godot, where players navigate through levels filled with enemies, collectibles, and challenging obstacles.
+
+
 ### 💡 [Car Data Analysis](https://github.com/Mayborg121/Car_DataAnalysis_Dashboard)
 A personal project showcasing HTML skills with a sleek hero section design.
 
