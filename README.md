@@ -9,7 +9,7 @@
 Hi there! I'm Mayur Borgude (MayBorg) 👋, a passionate developer who loves turning ideas into code. I thrive on creating innovative solutions and diving into exciting projects. Here's a bit about what I do:
 
 - 💻 **Coding Enthusiast**: I create coding-themed wallpapers and design minimalistic graphics using Photoshop. [Pinterest]([https://mayborg121.github.io/Synthwave/](https://in.pinterest.com/Mayb0rg/)).
-- 🌐 **Data Analyst**: Transforms Data into Information, Helps businesses to Excel By giving helpful insights.
+- 📊 **Data Analyst**: Transforms Data into Information, Helps businesses to Excel By giving helpful insights.
 - 🌐 **Web Developer**: Working on personal HTML,CSS and Javascript tutorials and projects like [Synthwave](https://mayborg121.github.io/Synthwave/), [HTML Tutorial](https://mayborg121.github.io/xs/).
 - 🔧 **IoT Innovator**: Currently developing smart home solutions with ESP32.
 
@@ -18,12 +18,11 @@ Hi there! I'm Mayur Borgude (MayBorg) 👋, a passionate developer who loves tur
 ### 🏠 [ESP32 Smart Home](#)
 An IoT project focused on creating a smart home control system using ESP32.
 
-### 🎨 [Synthwave](https://mayborg121.github.io/Synthwave/)
-A vibrant entertainment website exploring synthwave culture and music. Check it out!
-
-### 🎨 [Square Tales!](https://github.com/Mayborg121/Square-Tales-Godot-Game-)
+### 🎮 [Square Tales!](https://github.com/Mayborg121/Square-Tales-Godot-Game-)
 Square Tales is a 2D platformer game developed using Godot, where players navigate through levels filled with enemies, collectibles, and challenging obstacles.
 
+### 🎨 [Synthwave](https://mayborg121.github.io/Synthwave/)
+A vibrant entertainment website exploring synthwave culture and music. Check it out!
 
 ### 💡 [Car Data Analysis](https://github.com/Mayborg121/Car_DataAnalysis_Dashboard)
 A personal project showcasing HTML skills with a sleek hero section design.
