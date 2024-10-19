@@ -37,7 +37,7 @@ The Dice Rolling Game is a simple web-based project built with HTML, CSS, and Ja
 
 ## 🛠️ Skills
 
-- **Languages**: Python, C++ ,HTML, CSS, JavaScript
+- **Languages**: Python, C++ ,HTML, CSS, JavaScript, SQL.
 - **Tools**: VScode, PowerBI, Tableau, Photoshop, GitHub, ESP32 , Office Suite
 
 ## 📫 Contact
