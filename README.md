@@ -10,7 +10,7 @@ Hi there! I'm Mayur Borgude (MayBorg) 👋, a passionate developer who loves tur
 
 - 💻 **Computer Enthusiast**: I love coding in projects and creating electronics, art and stuff.
 - 📊 **Data Analyst**: Transforms Data into Information, Helps businesses to Excel By giving helpful insights.
-- 🌐 **Web Developer**: Working on personal HTML,CSS and Javascript tutorials and projects like [Synthwave](https://mayborg121.github.io/Synthwave/), [HTML Tutorial](https://mayborg121.github.io/xs/).
+- 🌐 **Web Developer**: Working on personal HTML,CSS and Javascript tutorials and projects like [Synthwave](https://mayborg121.github.io/Synthwave/), [HTML Tutorial](https://mayborg121.github.io/xs/), [DiceR](https://mayborg121.github.io/dicer/).
 - 🔧 **IoT Innovator**: Currently developing smart home solutions with ESP32.
 - 🖼️ **Creator**: I create coding-themed wallpapers and design minimalistic graphics using Photoshop. [Pinterest](https://in.pinterest.com/Mayb0rg/).
 
@@ -31,6 +31,8 @@ A personal project showcasing HTML skills with a sleek hero section design.
 ### 🏠 [HTML only webpage.](https://mayborg121.github.io/xs/)
 As someone who started learning HTML from scratch, I understand the excitement and challenges that come with it. Here, you'll find straightforward guides and practical examples that make learning HTML enjoyable and accessible.
 
+### 🎲 [DiceR](https://mayborg121.github.io/dicer/)
+The Dice Rolling Game is a simple web-based project built with HTML, CSS, and JavaScript. It generates random dice rolls between 1 and 6.The game was built as part of a learning process for JavaScript, particularly DOM manipulation and event handling. It features a clean and minimalistic UI.
 
 
 ## 🛠️ Skills
