@@ -34,6 +34,9 @@ As someone who started learning HTML from scratch, I understand the excitement a
 ### 🎲 [DiceR](https://mayborg121.github.io/dicer/)
 The Dice Rolling Game is a simple web-based project built with HTML, CSS, and JavaScript. It generates random dice rolls between 1 and 6.The game was built as part of a learning process for JavaScript, particularly DOM manipulation and event handling. It features a clean and minimalistic UI.
 
+### ⏱️ [Stopiee]
+In the rhythm of time, StopWatch-Stopiee stands as a silent companion, counting each second while offering bursts of inspiration. Crafted with HTML, CSS, and JavaScript, it’s not just a stopwatch—it’s a motivator. Each time you stop the clock, a fresh, uplifting quote reminds you that time is precious, urging you to stay productive.
+
 
 ## 🛠️ Skills
 
