@@ -22,6 +22,9 @@ An IoT project focused on creating a smart home control system using ESP32.
 ### 🎮 [Square Tales!](https://github.com/Mayborg121/Square-Tales-Godot-Game-)
 Square Tales is a 2D platformer game developed using Godot, where players navigate through levels filled with enemies, collectibles, and challenging obstacles.
 
+### ⏱️ [Stopiee](https://mayborg121.github.io/StopWatch-Stopiee/)
+In the rhythm of time, StopWatch-Stopiee stands as a silent companion, counting each second while offering bursts of inspiration. Crafted with HTML, CSS, and JavaScript, it’s not just a stopwatch—it’s a motivator. Each time you stop the clock, a fresh, uplifting quote reminds you that time is precious, urging you to stay productive.
+
 ### 🎨 [Synthwave](https://mayborg121.github.io/Synthwave/)
 A vibrant entertainment website exploring synthwave culture and music. Check it out!
 
@@ -34,8 +37,6 @@ As someone who started learning HTML from scratch, I understand the excitement a
 ### 🎲 [DiceR](https://mayborg121.github.io/dicer/)
 The Dice Rolling Game is a simple web-based project built with HTML, CSS, and JavaScript. It generates random dice rolls between 1 and 6.The game was built as part of a learning process for JavaScript, particularly DOM manipulation and event handling. It features a clean and minimalistic UI.
 
-### ⏱️ [Stopiee]
-In the rhythm of time, StopWatch-Stopiee stands as a silent companion, counting each second while offering bursts of inspiration. Crafted with HTML, CSS, and JavaScript, it’s not just a stopwatch—it’s a motivator. Each time you stop the clock, a fresh, uplifting quote reminds you that time is precious, urging you to stay productive.
 
 
 ## 🛠️ Skills
