@@ -10,7 +10,7 @@ Hi there! I'm Mayur Borgude (MayBorg) 👋, a passionate developer who loves tur
 
 - 💻 **Computer Enthusiast**: I love coding in projects and creating electronics, art and stuff.
 - 📊 **Data Analyst**: Transforms Data into Information, Helps businesses to Excel By giving helpful insights.
-- 🌐 **Web Developer**: Working on personal HTML,CSS and Javascript tutorials and projects like [Synthwave](https://mayborg121.github.io/Synthwave/), [HTML Tutorial](https://mayborg121.github.io/xs/), [DiceR](https://mayborg121.github.io/dicer/), [Stopiee](https://mayborg121.github.io/StopWatch-Stopiee/).
+- 🌐 **Web Developer**: Working on personal HTML,CSS and Javascript tutorials and projects like [Birthday Wisher](https://mayborg121.github.io/hb/), [HTML Tutorial](https://mayborg121.github.io/xs/), [Synthwave](https://mayborg121.github.io/Synthwave/), [DiceR](https://mayborg121.github.io/dicer/), [Stopiee](https://mayborg121.github.io/StopWatch-Stopiee/).
 - 🔧 **IoT Innovator**: Currently developing smart home solutions with ESP32.
 - 🖼️ **Creator**: I create coding-themed wallpapers and design minimalistic graphics using Photoshop. [Pinterest](https://in.pinterest.com/Mayb0rg/).
 
@@ -19,11 +19,14 @@ Hi there! I'm Mayur Borgude (MayBorg) 👋, a passionate developer who loves tur
 ### 🏠 [ESP32 Smart Home](#)
 An IoT project focused on creating a smart home control system using ESP32.
 
+### 🥳 [Birthday Wisher](https://mayborg121.github.io/hb/)
+Square Tales is a 2D platformer game developed using Godot, where players navigate through levels filled with enemies, collectibles, and challenging obstacles.
+
 ### 🎮 [Square Tales!](https://github.com/Mayborg121/Square-Tales-Godot-Game-)
 Square Tales is a 2D platformer game developed using Godot, where players navigate through levels filled with enemies, collectibles, and challenging obstacles.
 
 ### ⏱️ [Stopiee](https://mayborg121.github.io/StopWatch-Stopiee/)
-In the rhythm of time, StopWatch-Stopiee stands as a silent companion, counting each second while offering bursts of inspiration. Crafted with HTML, CSS, and JavaScript, it’s not just a stopwatch—it’s a motivator. Each time you stop the clock, a fresh, uplifting quote reminds you that time is precious, urging you to stay productive.
+In the rhythm of time, StopWatch-Stopiee stands as a silent companion, counting each second while offering bursts of inspiration.
 
 ### 🎨 [Synthwave](https://mayborg121.github.io/Synthwave/)
 A vibrant entertainment website exploring synthwave culture and music. Check it out!
