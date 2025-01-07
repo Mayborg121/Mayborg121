@@ -20,7 +20,7 @@ Hi there! I'm Mayur Borgude (MayBorg) 👋, a passionate developer who loves tur
 An IoT project focused on creating a smart home control system using ESP32.
 
 ### 🥳 [Birthday Wisher](https://mayborg121.github.io/hb/)
-Square Tales is a 2D platformer game developed using Godot, where players navigate through levels filled with enemies, collectibles, and challenging obstacles.
+Birthday Wisher is a webapp created to wish your loved ones on thier birthday beforehands. It makes them feel special through thoughtful wishes.
 
 ### 🎮 [Square Tales!](https://github.com/Mayborg121/Square-Tales-Godot-Game-)
 Square Tales is a 2D platformer game developed using Godot, where players navigate through levels filled with enemies, collectibles, and challenging obstacles.
