@@ -10,7 +10,7 @@ Hi there! I'm Mayur Borgude (MayBorg) 👋, a passionate developer who loves tur
 
 - 💻 **Computer Enthusiast**: I love coding in projects and creating electronics, art and stuff.
 - 📊 **Data Analyst**: Transforms Data into Information, Helps businesses to Excel By giving helpful insights.
-- 🌐 **Web Developer**: Working on personal HTML,CSS and Javascript tutorials and projects like [Birthday Wisher](https://mayborg121.github.io/hb/), [HTML Tutorial](https://mayborg121.github.io/xs/), [Synthwave](https://mayborg121.github.io/Synthwave/), [DiceR](https://mayborg121.github.io/dicer/), [Stopiee](https://mayborg121.github.io/StopWatch-Stopiee/).
+- 🌐 **Web Developer**: Working on personal HTML,CSS and Javascript tutorials and projects like [Poetry Webpage](https://mayborg121.github.io/poems/), [Birthday Wisher](https://mayborg121.github.io/hb/), [HTML Tutorial](https://mayborg121.github.io/xs/), [Synthwave](https://mayborg121.github.io/Synthwave/), [DiceR](https://mayborg121.github.io/dicer/), [Stopiee](https://mayborg121.github.io/StopWatch-Stopiee/).
 - 🔧 **IoT Innovator**: Currently developing smart home solutions with ESP32.
 - 🖼️ **Creator**: I create coding-themed wallpapers and design minimalistic graphics using Photoshop. [Pinterest](https://in.pinterest.com/Mayb0rg/).
 
@@ -18,6 +18,10 @@ Hi there! I'm Mayur Borgude (MayBorg) 👋, a passionate developer who loves tur
 
 ### 🏠 [ESP32 Smart Home](#)
 An IoT project focused on creating a smart home control system using ESP32.
+
+### 📜✒️ [Poetry Webpage](https://mayborg121.github.io/poems/)
+Here resides all of my poetic creations, its a showcase for my work. You know i love to write as much as i love to code so, Enjoy your day browsing through the poetic journey.
+
 
 ### 🥳 [Birthday Wisher](https://mayborg121.github.io/hb/)
 Birthday Wisher is a webapp created to wish your loved ones on thier birthday beforehands. It makes them feel special through thoughtful wishes.
