@@ -16,7 +16,7 @@ Hi there! I'm Mayur Borgude (MayBorg) 👋, a passionate developer who loves tur
 
 ## 📈 Projects
 
-### 🏠 [ESP32 Smart Home](#)
+### 🏠 [ESP32 Smart Home](https://github.com/Mayborg121/smartHome)
 An IoT project focused on creating a smart home control system using ESP32.
 
 ### 📜✒️ [Poetry Webpage](https://mayborg121.github.io/poems/)
