@@ -19,7 +19,7 @@ Hi there! I'm Mayur Borgude (MayBorg) 👋, a passionate developer who loves tur
 ### 🏠 [ESP32 Smart Home](https://github.com/Mayborg121/smartHome)
 An IoT project focused on creating a smart home control system using ESP32.
 
-### 📜✒️ [Poetry Webpage](https://mayborg121.github.io/poems/)
+### ✒️ [Poetry Webpage](https://mayborg121.github.io/poems/)
 Here resides all of my poetic creations, its a showcase for my work. You know i love to write as much as i love to code so, Enjoy your day browsing through the poetic journey.
 
 
@@ -48,8 +48,8 @@ The Dice Rolling Game is a simple web-based project built with HTML, CSS, and Ja
 
 ## 🛠️ Skills
 
-- **Languages**: Python, C++ ,HTML, CSS, JavaScript, SQL.
-- **Tools**: VScode, PowerBI, Tableau, Photoshop, GitHub, ESP32 , Office Suite
+- **Languages**: Java, Python, C++ ,HTML, CSS, JavaScript, SQL.
+- **Tools**: Spring boot, Hibernate, PostMan, MongoDB, Redis, kafka VScode, PowerBI, Tableau, Photoshop, GitHub, ESP32 , Office Suite
 
 ## 📫 Contact
 
