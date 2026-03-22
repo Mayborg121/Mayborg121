@@ -22,7 +22,7 @@ An IoT project focused on creating a smart home control system using ESP32.
 ### ✒️ [Poetry Webpage](https://mayborg121.github.io/poems/)
 Here resides all of my poetic creations, its a showcase for my work. You know i love to write as much as i love to code so, Enjoy your day browsing through the poetic journey.
 
-### 🏠 [ResumePRO](https://drcnrg.github.io/r/)
+### 📜 [ResumePRO](https://drcnrg.github.io/r/)
 A Standalone Professional Resume builder for creating the resume on the Go and download them as PDF.
 
 ### 🥳 [Birthday Wisher](https://mayborg121.github.io/hb/)
